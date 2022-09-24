@@ -1,1 +1,1 @@
-# Notes From AWS-Quest-Cloud-Practitioner
+# Notes From AWS-Cloud-Quest-Cloud-Practitioner
